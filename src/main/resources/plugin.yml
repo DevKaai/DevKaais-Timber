@@ -1,0 +1,6 @@
+name: DevKaaisTimber
+version: '${project.version}'
+main: de.devkaai.timber.Timber
+api-version: 1.17
+authors: [ DevKaai ]
+description: DevKaais Timber Plugin

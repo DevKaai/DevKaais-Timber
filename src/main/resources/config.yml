@@ -1,0 +1,28 @@
+Settings:
+  mode: 'PILLAR' #default: 'PILLAR' | PILLAR, EDGE
+  distance:
+    height: 12 #default: 12
+    height_offset: 2 #default: 2
+    width: 2 #default: 2
+
+Blocks:
+  - 'oak_log'
+  - 'spruce_log'
+  - 'birch_log'
+  - 'jungle_log'
+  - 'acacia_log'
+  - 'dark_oak_log'
+  - 'stripped_oak_log'
+  - 'stripped_spruce_log'
+  - 'stripped_birch_log'
+  - 'stripped_jungle_log'
+  - 'stripped_acacia_log'
+  - 'stripped_dark_oak_log'
+
+Tools:
+  - 'netherite_axe'
+  - 'diamond_axe'
+  - 'iron_axe'
+  - 'golden_axe'
+  - 'stone_axe'
+  - 'wooden_axe'
