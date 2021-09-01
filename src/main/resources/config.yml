@@ -1,5 +1,6 @@
 Settings:
-  mode: 'PILLAR' #default: 'PILLAR' | PILLAR, EDGE
+  mode: 'PILLAR' #default: 'PILLAR' | PILLAR, EDGE #Note: "EDGE" is not complete implement
+  onSneak: true #default: true
   distance:
     height: 12 #default: 12
     height_offset: 2 #default: 2
@@ -12,12 +13,12 @@ Blocks:
   - 'jungle_log'
   - 'acacia_log'
   - 'dark_oak_log'
-  - 'stripped_oak_log'
-  - 'stripped_spruce_log'
-  - 'stripped_birch_log'
-  - 'stripped_jungle_log'
-  - 'stripped_acacia_log'
-  - 'stripped_dark_oak_log'
+  - 'oak_wood'
+  - 'spruce_wood'
+  - 'birch_wood'
+  - 'jungle_wood'
+  - 'acacia_wood'
+  - 'dark_oak_wood'
 
 Tools:
   - 'netherite_axe'
